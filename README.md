@@ -1,4 +1,6 @@
 # ABOUT ME 
+I am a normal college student about to graduate. 
+
 ---
 ## Basic Info
 1. **Name:** Tiffany 
